@@ -10,10 +10,10 @@ stop_flag = threading.Event()
 def connect_to_db():
     conn = pyodbc.connect(
         'DRIVER={ODBC Driver 17 for SQL Server};'
-        'SERVER=127.0.0.1;'  
+        'SERVER=127.0.0.1;'   #my local server[host]
         'DATABASE=STRAND_DATA;'  
         'UID=sa;'
-        'PWD=iilab109;'
+        'PWD=aaaaaaaa;'
     )
     return conn
 
