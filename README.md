@@ -15,11 +15,6 @@ This tool provides a graphical interface for simulating database updates based o
   - `pyodbc`
   - `tkinter`
 
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### 1. Run the Simulation Tool
