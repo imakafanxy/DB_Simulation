@@ -20,7 +20,7 @@ This tool provides a graphical interface for simulating database updates based o
 ### 1. Run the Simulation Tool
 Execute the tool with:
 ```bash
-python simulation_tool.py
+python db_simulation.py
 ```
 
 ### 2. User Interface
